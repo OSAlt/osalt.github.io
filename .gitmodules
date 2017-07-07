@@ -1,0 +1,3 @@
+[submodule "themes"]
+	path = pelican-blueidea
+	url = https://github.com/blueicefield/pelican-blueidea.git
